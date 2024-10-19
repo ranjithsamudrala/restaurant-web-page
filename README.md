@@ -13,9 +13,6 @@ Welcome to **HeavenHut**, a restaurant menu application that provides an interac
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
