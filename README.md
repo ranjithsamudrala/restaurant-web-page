@@ -1,6 +1,11 @@
 # restaurant-web-page
 # HeavenHut - Restaurant Menu Application
 
+## Menu Image
+
+![Menu](screenshots/menu-image.png)
+
+
 Welcome to **HeavenHut**, a restaurant menu application that provides an interactive experience for users to explore a diverse range of delicious dishes. This project showcases a modern web interface where users can view menu categories, item details, and even purchase items with a QR code for easy payment.
 
 ## Table of Contents
@@ -25,7 +30,7 @@ Welcome to **HeavenHut**, a restaurant menu application that provides an interac
 - HTML
 - CSS
 - JavaScript
-- [Any other technologies you used, e.g., Bootstrap, jQuery, etc.]
+
 
 ## Installation
 
